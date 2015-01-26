@@ -6,3 +6,5 @@ for n in str.replace(' ', '').split('+'):
    r+=int(n)
 print(r)
 print(base64.b64decode('7oYnXzWt9Bcm4Z1JtDLoj7spwxvxJWBXA6iCTxl34DdPLlVjm0i-lGsOZGuy67l40Ow='))
+
+
